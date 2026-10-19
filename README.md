@@ -2,7 +2,9 @@
 
 A Mortal Kombat–style 2D fighting game that runs in the browser. It's plain HTML5 canvas and JavaScript with no build step, and the art and sound are all generated in code.
 
-**Play:** open `index.html` in a browser, or serve the folder (`python3 -m http.server`) and go to `http://localhost:8000`.
+**Play online:** https://dacoder1.github.io/MortalCombatCopy/ (deployed from `main` by GitHub Actions).
+
+**Play locally:** open `index.html` in a browser, or serve the folder (`python3 -m http.server`) and go to `http://localhost:8000`.
 
 ## Features
 
